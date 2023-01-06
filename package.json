@@ -1,12 +1,12 @@
 {
   "name": "com.inexperienced-developer.fpcontroller",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Inexperienced Developer First Person Controller",
   "description": "Inexperienced Developer's basic first person character controller",
   "unity": "2019.1",
   "unityRelease": "0b5",
   "dependencies": {
-    "com.inexperienced-developer.input": "2.0.0",
+    "com.unity.inputsystem": "1.4.4",
     "com.unity.render-pipelines.universal": "12.1.8"
   },
  "repository": {

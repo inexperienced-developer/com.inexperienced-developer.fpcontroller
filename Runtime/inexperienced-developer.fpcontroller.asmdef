@@ -3,7 +3,7 @@
     "rootNamespace": "",
     "references": [
         "Unity.RenderPipelines.Universal.Runtime",
-        "inexperienced-developer.input"
+        "Unity.InputSystem"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
