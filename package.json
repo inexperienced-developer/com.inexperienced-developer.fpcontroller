@@ -1,0 +1,21 @@
+{
+  "name": "com.inexperienced-developer.fpcontroller",
+  "version": "1.0.0",
+  "displayName": "Inexperienced Developer First Person Controller",
+  "description": "Inexperienced Developer's basic first person character controller",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "dependencies": {
+    "com.inexperienced-developer.input": "https://github.com/inexperienced-developer/com.inexperienced-developer.input.git",
+    "com.unity.render-pipelines.universal": "12.1.8"
+  },
+ "repository": {
+  "type": "git",
+  "url": "https://github.com/inexperienced-developer/com.inexperienced-developer.fpcontroller.git"
+ },
+  "author": {
+    "name": "Inexperienced Developer",
+    "email": "id@iddevelopers.net",
+    "url": "https://www.iddevelopers.net"
+  }
+}
